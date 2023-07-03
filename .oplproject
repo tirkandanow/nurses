@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="ASCII"?><project>
+    	
+    <version>1.0</version>
+    	
+    <configs>
+        		
+        <config default="true" name="Konfiguracja1" category="opl">
+            			
+            <ref name="NSP.mod" type="model">
+			</ref>
+            		
+        </config>
+        		
+        <config default="false" name="Konfiguracja2" category="opl">
+            			
+            <ref name="nsp1.mod" type="model">
+			</ref>
+            		
+        </config>
+        	
+    </configs>
+    	
+
+</project>
